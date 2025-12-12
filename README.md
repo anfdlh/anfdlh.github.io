@@ -20,7 +20,6 @@
   <img src="assets/img/preview.png" alt="Portfolio Preview" width="800px">
 </div>
 
-> **Note:** Replace `assets/img/preview.png` with actual screenshot of your portfolio
 
 ---
 
@@ -154,10 +153,9 @@ Edit CSS variables in `assets/css/style.css`:
 
 ```css
 :root {
-  --primary-color: #00bfc9; /* Main accent color */
-  --bg-color: #0f172a; /* Background color */
-  --text-color: #f8fafc; /* Text color */
-  /* ... more variables */
+  --primary-color: #00bfc9;
+  --bg-color: #0f172a;
+  --text-color: #f8fafc;
 }
 ```
 
