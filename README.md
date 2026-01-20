@@ -3,7 +3,6 @@
 A unique, developer-centric personal portfolio designed to mimic the standard **Visual Studio Code** interface. This project showcases personal information in a creative way—represented as a JavaScript object within a code editor environment.
 
 ![Preview](assets/img/preview.png)
-*(Note: Replace with a screenshot of your actual website if available)*
 
 ## ✨ Features
 
