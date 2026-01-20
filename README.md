@@ -21,29 +21,4 @@ A unique, developer-centric personal portfolio designed to mimic the standard **
 - **FontAwesome**: For the icons used in the sidebar and social links.
 - **Google Fonts**: Uses 'Fira Code' for the coding area and 'Inter' for the UI elements.
 
-## 🚀 How to Run
-
-1.  **Clone** or **Download** this repository.
-2.  Open the `index.html` file in your favorite web browser.
-3.  Enjoy!
-
-## 📂 Project Structure
-
-```
-├── assets/
-│   ├── css/
-│   │   └── style.css  # Main styling
-│   ├── js/
-│   │   └── script.js  # Interactions
-│   └── img/
-│       └── profile.png # Your profile picture
-└── index.html         # Main file
-```
-
-## 📝 Customization
-
-To customize the data, simply edit the `index.html` file inside the `<div class="code-text">` section. You can change the strings to match your own Name, Role, and Hobbies.
-
----
-
 Created with ❤️ by **Aan Fadlilah**
